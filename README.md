@@ -56,14 +56,19 @@
 * Start With Why by Simon Sinek
 * The Dichotomy Of Leadership by Jocko Willink & Leif Babin
 * Leaders Eat Last by Simon Sinek
-* Measure What Matters by John Doerr
+* Measure What Matters by John Doerr (How Google, Bono, and the Gates Foundation Rock the World with OKRs)
+  1)Set goal (Objective)
+  2)Set tasks to achieve this goal (key results)
+  3)Make the tasks measurable
+  This is the OKR
 * The Infinite Game by Simon Sinek
 ----
 
 ## `MANAGEMENT BOOKS`
-* The Making Of A Manager by Julie Zhuo
-* The Coaching Habit by Michael Bungay Stanier
-* First, Break All The Rules by Marcus Buckingham
-* Multipliers by Liz Wiseman
-* Who by Geoff Smart & Randy Street
+* First, Break All The Rules by Marcus Buckingham (What the World's Greatest Managers Do Differently)
+* The Making Of A Manager by Julie Zhuo (What to Do When Everyone Looks to You)
+* Who by Geoff Smart & Randy Street (The A Method for Hiring executive-level candidate)
+* The Coaching Habit by Michael Bungay Stanier (Say Less, Ask More & Change the Way You Lead Forever)
+* Multipliers by Liz Wiseman (How the Best Leaders Make Everyone Smarter)
+
 ----
