@@ -2,22 +2,15 @@
 
 ## `PRODUCTIVITY BOOKS`
 * The One Thing by Gary Keller
-* Digital Minimalism by Cal Newport
-* Flow by Mihalyi Csikszentmihalyi
-* Your Brain At Work by David Rock
-* Who Not How by Dan Sullivan & Dr. Benjamin Hardy
+* Digital Minimalism by Cal Newport (Choosing a Focused Life in a Noisy World)
+* Who Not How by Dan Sullivan & Dr. Benjamin Hardy(Formula to Achieve Bigger Goals Through Accelerating Teamwork)
 ----
 
 ## `SELF-HELP BOOKS`
-* Atomic Habits by James Clear
-* Mindset by Carol S. Dweck
-* So Good They Can’t Ignore You by Cal Newport
-* Essentialism by Greg McKeown
-* Futureproof by Kevin Roose
-* Ultralearning by Scott H. Young
-* Chatter by Ethan Kross
-* Thinking, Fast and Slow by Daniel Kahneman
-* Never Split The Difference by Chris Voss
+* Ultralearning by Scott H. Young (how to master hard skills, outsmart the competition, and accelerate your career)
+* Atomic Habits by James Clear (An Easy & Proven Way to Build Good Habits & Break Bad Ones)
+* Mindset by Carol S. Dweck (The New Psychology of Success)
+* Never Split The Difference by Chris Voss (Negotiating as if Your Life Depended on It)
 ----
 
 ## `STARTUP BOOKS`
