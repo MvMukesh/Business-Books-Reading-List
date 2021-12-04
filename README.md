@@ -62,7 +62,7 @@
 ----
 
 ## `LEADERSHIP BOOKS`
-* Start With Why by Simon Sinek
+* Start With Why by Simon Sinek (How Great Leaders Inspire Everyone to Take Action)
 * The Dichotomy Of Leadership by Jocko Willink & Leif Babin
 * Leaders Eat Last by Simon Sinek
 * Measure What Matters by John Doerr (How Google, Bono, and the Gates Foundation Rock the World with OKRs)
