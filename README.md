@@ -1,9 +1,26 @@
 # Business-Books-To-Read
+
+## `SELF-HELP BOOKS`
+* Atomic Habits by James Clear
+* Mindset by Carol S. Dweck
+* So Good They Can’t Ignore You by Cal Newport
+* Essentialism by Greg McKeown
+* Futureproof by Kevin Roose
+* Ultralearning by Scott H. Young
+* Chatter by Ethan Kross
+* Thinking, Fast and Slow by Daniel Kahneman
+* Never Split The Difference by Chris Voss
+---
+
+## `STARTUP BOOKS`
 * [The Start-Up J Curve: The Six Steps to Entrepreneurial Success](https://www.amazon.com/Start-Up-Curve-Steps-Entrepreneurial-Success/dp/162634292X)
 * [The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898/ref=sr_1_1?crid=31IB8LFJ69M6W&keywords=the+lean+startup&qid=1638544480&s=books&sprefix=the+lean+start%2Cstripbooks-intl-ship%2C788&sr=1-1) 
 * [The Mom Test: How to Talk to Customers & Learn If Your Business Is a Good Idea When Everyone Is Lying to You](https://www.amazon.com/The-Mom-Test-Rob-Fitzpatrick-audiobook/dp/B07RJZKZ7F/ref=sr_1_1?keywords=the+mom+test&qid=1638544685&s=books&sr=1-1)
 * [The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers](https://www.amazon.com/Hard-Thing-About-Hard-Things-audiobook/dp/B00I0A6HUO/ref=sr_1_1?crid=FTDZKC7OYLHU&keywords=the+hard+thing+about+hard+things+by+ben+horowitz&qid=1638544883&s=audible&sprefix=the+hard+thin%2Caudible%2C890&sr=1-1)
 * [Zero to One: Notes on Startups, or How to Build the Future ](https://www.amazon.com/Zero-to-One-audiobook/dp/B00M284NY2/ref=sr_1_1?crid=67VYZQR8D8PU&keywords=zero+to+one+peter+thiel&qid=1638544931&s=audible&sprefix=zero+to+%2Caudible%2C615&sr=1-1)
+-----
+
+## `BUSINESS STRATEGY BOOKS`
 * [Blue Ocean Strategy, Expanded Edition: How to Create Uncontested Market Space and Make the Competition Irrelevant](https://www.amazon.com/Blue-Ocean-Strategy-Expanded-Uncontested/dp/B089DM3GZ9/ref=sr_1_1?crid=105AV9Z35WNZM&keywords=blue+ocean+strategy&qid=1638544967&s=audible&sprefix=blue%2Caudible%2C529&sr=1-1)
 * [The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail](https://www.amazon.com/The-Innovators-Dilemma-audiobook/dp/B06Y4RRGVV/ref=sr_1_1?crid=1RRSB27D5AV9T&keywords=the+innovators+dilemma&qid=1638545039&s=audible&sprefix=the+inovator%2Caudible%2C561&sr=1-1)
 * [Understanding Michael Porter: The Essential Guide to Competition and Strategy](https://www.amazon.com/Understanding-Michael-Porter-audiobook/dp/B006KZ8H0Y/ref=sr_1_1?crid=1U0CST7UK9N2Y&keywords=understanding+michael+porter&qid=1638545090&s=audible&sprefix=understanding+m%2Caudible%2C619&sr=1-1)
@@ -14,4 +31,46 @@
 ----
 
 # `Marketing Books`
-* 
+* [Traction: How Any Startup Can Achieve Explosive Customer Growth](https://www.amazon.com/Traction-audiobook/dp/B01705KMG4/ref=sr_1_2?crid=26KGN9PK4L9I2&keywords=traction+book&qid=1638593975&s=audible&sprefix=tractoi%2Caudible%2C425&sr=1-2)
+* [Marketing Made Simple: A Step-by-Step StoryBrand Guide for Any Business](https://www.amazon.com/Marketing-Made-Simple-Step-Step/dp/B07TTTYZRK/ref=sr_1_1?crid=12N5RJRSK737&keywords=marketing+made+simple+by+donald+miller&qid=1638594093&s=audible&sprefix=markatig+made+%2Caudible%2C423&sr=1-1)
+* [Contagious: Why Things Catch On](https://www.amazon.com/Contagious-Jonah-Berger-audiobook/dp/B00B91I8IK/ref=sr_1_1?crid=F0Z15JA0CP41&keywords=contagious&qid=1638594140&s=audible&sprefix=conta%2Caudible%2C773&sr=1-1)
+* [The 22 Immutable Laws of Marketing](https://www.amazon.com/22-Immutable-Laws-Marketing/dp/B00J4O6TO4/ref=sr_1_1?crid=3JYNT61T4KQYX&keywords=the+22+immutable+laws+of+marketing&qid=1638594182&s=audible&sprefix=the+22+%2Caudible%2C759&sr=1-1)
+* [This Is Marketing: You Can't Be Seen Until You Learn to See](https://www.amazon.com/This-Is-Marketing-Seth-Godin-audiobook/dp/B07DKN7DG2/ref=sr_1_1?crid=1OINP33HHJOUX&keywords=this+is+marketing+seth+godin&qid=1638594247&s=audible&sprefix=this+is+ma%2Caudible%2C693&sr=1-1)
+* [They Ask, You Answer: A Revolutionary Approach to Inbound Sales, Content Marketing, and Today's Digital Consumer](https://www.amazon.com/They-Ask-You-Answer-Revolutionary/dp/1119610141/ref=sr_1_1?crid=2YHJ1Q4L3MDKD&keywords=they+ask+you+answer+by+marcus+sheridan&qid=1638594470&sprefix=They+Ask+You+Answer+by+Marcus+Sheridan%2Caudible%2C439&sr=8-1)
+* [Building a StoryBrand: Clarify Your Message So Customers Will Listen](https://www.amazon.com/Building-StoryBrand-Donald-Miller-audiobook/dp/B072J8WRND/ref=sr_1_1?crid=1GXMN4XFSDQ0K&keywords=building+a+storybrand+donald+miller&qid=1638594530&sprefix=building+a+%2Caps%2C478&sr=8-1)
+* [Influence, New and Expanded: The Psychology of Persuasion](https://www.amazon.com/Influence-New-Expanded-Psychology-Persuasion/dp/B08RLT11Q3/ref=sr_1_1?keywords=Influence+by+Dr.+Robert+Cialdini&qid=1638594677&s=audible&sr=1-1)
+* [The Language of Trust](https://www.amazon.com/The-Language-of-Trust/dp/B003KJM560/ref=sr_1_1?keywords=The+Language+Of+Trust+by+Michael+Maslansky&qid=1638594730&s=audible&sr=1-1)
+----
+
+## `PRODUCT DEVELOPMENT BOOKS`
+* Sprint by Jake Knapp
+* Hacking Growth by Sean Ellis & Morgan Brown
+* Start At The End by Matt Wallaert
+* Hooked by Nir Eyal
+* Friction by Roger Dooley
+* Perennial Seller by Ryan Holiday
+----
+
+## `LEADERSHIP BOOKS`
+* Start With Why by Simon Sinek
+* The Dichotomy Of Leadership by Jocko Willink & Leif Babin
+* Leaders Eat Last by Simon Sinek
+* Measure What Matters by John Doerr
+* The Infinite Game by Simon Sinek
+----
+
+## MANAGEMENT BOOKS
+* The Making Of A Manager by Julie Zhuo
+* The Coaching Habit by Michael Bungay Stanier
+* First, Break All The Rules by Marcus Buckingham
+* Multipliers by Liz Wiseman
+* Who by Geoff Smart & Randy Street
+----
+
+## `PRODUCTIVITY BOOKS`
+* The One Thing by Gary Keller
+* Digital Minimalism by Cal Newport
+* Flow by Mihalyi Csikszentmihalyi
+* Your Brain At Work by David Rock
+* Who Not How by Dan Sullivan & Dr. Benjamin Hardy
+----
