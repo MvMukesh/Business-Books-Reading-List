@@ -1,4 +1,4 @@
-# Business-Books-To-Read
+# Business-Books-Reading-List
 
 ## `PRODUCTIVITY BOOKS`
 * The One Thing by Gary Keller
