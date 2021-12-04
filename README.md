@@ -1,5 +1,13 @@
 # Business-Books-To-Read
 
+## `PRODUCTIVITY BOOKS`
+* The One Thing by Gary Keller
+* Digital Minimalism by Cal Newport
+* Flow by Mihalyi Csikszentmihalyi
+* Your Brain At Work by David Rock
+* Who Not How by Dan Sullivan & Dr. Benjamin Hardy
+----
+
 ## `SELF-HELP BOOKS`
 * Atomic Habits by James Clear
 * Mindset by Carol S. Dweck
@@ -10,7 +18,7 @@
 * Chatter by Ethan Kross
 * Thinking, Fast and Slow by Daniel Kahneman
 * Never Split The Difference by Chris Voss
----
+----
 
 ## `STARTUP BOOKS`
 * [The Start-Up J Curve: The Six Steps to Entrepreneurial Success](https://www.amazon.com/Start-Up-Curve-Steps-Entrepreneurial-Success/dp/162634292X)
@@ -65,12 +73,4 @@
 * First, Break All The Rules by Marcus Buckingham
 * Multipliers by Liz Wiseman
 * Who by Geoff Smart & Randy Street
-----
-
-## `PRODUCTIVITY BOOKS`
-* The One Thing by Gary Keller
-* Digital Minimalism by Cal Newport
-* Flow by Mihalyi Csikszentmihalyi
-* Your Brain At Work by David Rock
-* Who Not How by Dan Sullivan & Dr. Benjamin Hardy
 ----
