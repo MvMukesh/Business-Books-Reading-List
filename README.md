@@ -44,10 +44,19 @@
 ----
 
 ## `PRODUCT DEVELOPMENT BOOKS`
-* Sprint by Jake Knapp
-* Hacking Growth by Sean Ellis & Morgan Brown
-* Start At The End by Matt Wallaert
+* Sprint by Jake Knapp (How to Solve Big Problems and Test New Ideas in Just Five Days)
+* Hacking Growth by Sean Ellis & Morgan Brown (A good read if you have no startup or data driven product management experience)
+  * 500 Startups
+  * StartCon
+  * Y-Combinator
+  * Neil Patel
+* Start At The End by Matt Wallaert (How to Build Products That Create Change)
 * Hooked by Nir Eyal
+  * It lays out the "Hook Model", a basic framework of the 4 key stages of each loop:
+    * Trigger: How does the loop initiate? In the beginning this may be through external triggers (such as an email, notification, icon badge, etc) but through successive loops the user eventually creates internal triggers where a particular thought or emotion will send them back to your product.
+    * Action: Once the user is aware they need to use your product (through the trigger), what it the simplest action they can perform to get some kind of reward. For example a Facebook "Like".
+    * Variable reward: How are they rewarded for this behavior? This could be social validation (e.g. "my friends approve!"), collection of material resources (e.g. add a photo to a collection) or personal gratification (e.g. inbox zero). The "variable" part is important - rewards should not always be predictable, encouraging users to repeat the cycle.
+    * Investment: Finally, the user needs to put something back in to increase the chance of repeating the loop. This could be content (e.g. a book in your Kindle), user entered data (e.g. profile information or linked accounts), reputation (e.g. something to gain a 5 star seller review), or a learned skill (e.g. I'm now really good at this software program). The investment also sets up the trigger to for the next cycle of the loop. 
 * Friction by Roger Dooley
 * Perennial Seller by Ryan Holiday
 ----
@@ -57,10 +66,9 @@
 * The Dichotomy Of Leadership by Jocko Willink & Leif Babin
 * Leaders Eat Last by Simon Sinek
 * Measure What Matters by John Doerr (How Google, Bono, and the Gates Foundation Rock the World with OKRs)
-  1)Set goal (Objective)
-  2)Set tasks to achieve this goal (key results)
-  3)Make the tasks measurable
-  This is the OKR
+  * Set goal (Objective)
+  * Set tasks to achieve this goal (key results)
+  * Make the tasks measurable  => This is OKR
 * The Infinite Game by Simon Sinek
 ----
 
