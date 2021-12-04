@@ -59,7 +59,7 @@
 * The Infinite Game by Simon Sinek
 ----
 
-## MANAGEMENT BOOKS
+## `MANAGEMENT BOOKS`
 * The Making Of A Manager by Julie Zhuo
 * The Coaching Habit by Michael Bungay Stanier
 * First, Break All The Rules by Marcus Buckingham
